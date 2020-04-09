@@ -1,0 +1,25 @@
+.menu {
+	grid-column: 7 / 13;
+	height: 50px;
+	padding: 20px;
+}
+
+.menu ul {
+	list-style-type: none;
+	padding: 0;
+	margin-top: 0 auto;
+	text-align: right;
+
+}
+
+.menu ul li {
+	display: inline-grid;
+	padding: 5px 10px;
+}
+
+.menu ul li a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+

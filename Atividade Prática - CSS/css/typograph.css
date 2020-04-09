@@ -1,0 +1,14 @@
+h1{
+	font-weight: 700;
+	font-size: 3.5em;
+	line-height: 4rem;
+	font-family: opensans, helvetica, arial, sans-serif;
+	text-align: left;
+}
+hgroup{
+	font-family: opensans, helvetica, arial, sans-serif;
+}
+h2{
+	margin: auto 0;
+	width: 800px;
+}
